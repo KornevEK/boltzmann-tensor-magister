@@ -1,1 +1,1 @@
-# boltzmann-tensor-magister
+# My magister dissertation at MIPT
